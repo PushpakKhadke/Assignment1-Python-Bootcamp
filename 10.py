@@ -11,6 +11,6 @@ print()
 
 
 # 2nd way!
-print("Second Way!")
+
 d,e,f=1,2,3
 print(d,e,f,sep="\n")
